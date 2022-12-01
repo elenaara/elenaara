@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elenaara
 - 🌱 I’m currently learning Bioinformatics in Lund University
-- 📫 How to reach me: email earamendia@gmail.com
+- 📫 How to reach me: email earacot@gmail.com
 
 <!---
 elenaara/elenaara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
